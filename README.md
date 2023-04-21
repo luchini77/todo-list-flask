@@ -1,2 +1,2 @@
 # todo-list-flask
-Proyecto de todo
+Proyecto de todo-list, en Flask
